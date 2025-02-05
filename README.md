@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-proyecto de prubea modulo 2 prepCourse Henry
+Este es un proyecto para clonar desde github a mi computadora
